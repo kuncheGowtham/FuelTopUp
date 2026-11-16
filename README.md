@@ -39,7 +39,7 @@ Status changes generate notifications at each stage — confirmation, dispatch, 
 ## Running locally
 
 ```bash
-git clone https://github.com/gowtham2214/fueltopup.git
+git clone https://github.com/kuncheGowtham/fueltopup.git
 cd fueltopup
 
 python -m venv venv
@@ -102,4 +102,4 @@ fueltopup/
 
 **Kunche Gowtham** — B.Tech Electronics & Communication Engineering, MLR Institute of Technology, Hyderabad
 
-[GitHub](https://github.com/gowtham2214) · [LinkedIn](https://linkedin.com/in/kunche-gowtham-180950275) · gowthamkunche2214@gmail.com
+[GitHub](https://github.com/kuncheGowtham) · [LinkedIn](https://linkedin.com/in/kunche-gowtham-180950275) · gowthamkunche2214@gmail.com
